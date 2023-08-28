@@ -1,0 +1,39 @@
+name: Run Python Script
+
+on:
+  workflow_dispatch: # これで手動実行ができるようになる
+  schedule:
+    # 日本時間（協定世界時+9時間）で9時から21時(協定世界時で0時から12時)までの偶数時、2時間ごとに実行
+    - cron: '0 0,2,4,6,8,10,12 * * *' 
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.MY_SECRET_TOKEN }} # ここでセットしたトークンを使うで
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run script
+        run: |
+          chmod +x NewsPicks_Categoly_AI.py
+          python NewsPicks_Categoly_AI.py
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add feed.xml
+          git diff --staged --quiet || git commit -m "Update RSS feed"
+          git push origin main || echo "変更がないからプッシュせんでええで！😊"
+          
