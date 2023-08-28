@@ -41,7 +41,7 @@ def create_rss_feed():
     )
 
     # 複数の記事の情報を取得
-    article_divs = soup.find_all('div', class_=compile("news-card vertical"))
+    article_divs = soup.find_all('div', class_=re.compile("news-card vertical"))
 
     if not article_divs:
         print("記事が見つからんかったわ！クラス名やタグが正しいか確認してみてな！")
