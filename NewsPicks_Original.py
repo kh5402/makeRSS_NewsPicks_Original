@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 from feedgenerator import Rss201rev2Feed
 from dateutil.parser import parse
 from xml.dom.minidom import parseString
+from datetime import datetime
 
 # ファイル名
 exportfile = "feed.xml"
@@ -49,19 +50,16 @@ def create_rss_feed():
         print(soup.prettify()[:500]) # 最初の500文字を出力
     else:
         a_tag = first_article_div.find('a', href=True)
-        title_tag = first_article_div.find('div', class_="title _ellipsised")
-        subtitle_tag = first_article_div.find('span', class_="publisher _ellipsised")
-
-        time_data = first_article_div.get('data-key')
-        match = re.search(r'(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})', time_data)
-        if match:
-            year, month, day, hour, minute = match.groups()
-            time_tag = f"{year}/{month}/{day} {hour}:{minute}"
+        title_tag = first_article_div.find(class_="title _ellipsis")
+        subtitle_tag = first_article_div.find('span', class_="publisher _ellipsis")
+        time_tag = re.search(r'data-key="(\d{12})', first_article_div['data-key']).group(1)
         
     title = title_tag.text
     subtitle = subtitle_tag.text
     href = a_tag['href']
-    date = time_tag.text
+    
+    date_str = time_tag[:14]  # 最初の14文字だけ取る
+    date = datetime.strptime(date_str, '%Y%m%d%H%M%S')
 
     feed.add_item(
         title=title + " - " + subtitle,
