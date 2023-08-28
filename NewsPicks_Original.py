@@ -17,16 +17,9 @@ def create_rss_feed():
         'Accept-Language': 'ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7',
         'Accept-Encoding': 'gzip, deflate, br'
     }
-    
-    # プロキシ設定
-    proxies = {
-        'http': 'http://your_proxy_here',
-        'https': 'https://your_proxy_here'
-    }
-    
+        
     #response = requests.get(url)
-    #response = requests.get(url, headers=headers)
-    response = requests.get(url, headers=headers, proxies=proxies)
+    response = requests.get(url, headers=headers)
     content = response.text
 
     # ここでステータスコードを確認
