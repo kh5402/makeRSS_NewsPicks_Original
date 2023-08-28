@@ -26,8 +26,8 @@ jobs:
 
       - name: Run script
         run: |
-          chmod +x NewsPicks_Categoly_AI.py
-          python NewsPicks_Categoly_AI.py
+          chmod +x NewsPicks_Original.py
+          python NewsPicks_Original.py
 
       - name: Commit and push
         run: |
