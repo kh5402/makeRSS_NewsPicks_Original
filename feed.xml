@@ -1,1 +1,15 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>NewsPicks_Original</title>
+        <link>https://newspicks.com/series/list/</link>
+        <description>最新のNewsPicksのオリジナル記事をお届けします</description>
+        <lastBuildDate>Sun, 27 Aug 2023 20:30:03 -0000</lastBuildDate>
+        <item>
+            <title>【吉原大介】パレスホテルの創業家。社長の「遠回り」人生 - NewsPicks編集部</title>
+            <link>/news/8763001?ref=series</link>
+            <description/>
+            <pubDate>Sun, 27 Aug 2023 20:30:03 -0000</pubDate>
+        </item>
+    </channel>
+</rss>
