@@ -34,6 +34,7 @@ def create_rss_feed():
 
     # 最初の記事の情報を取得
     first_article_div = soup.find('div', class_="news-card vertical big clear")
+    print(first_article_div)
 
     if first_article_div is None:
         print("first_article_div が None やで！クラス名やタグが正しいか確認してみてな！")
