@@ -52,7 +52,7 @@ def create_rss_feed():
         a_tag = first_article_div.find('a', href=True)
         title_tag = first_article_div.find(class_="title _ellipsis")
         subtitle_tag = first_article_div.find('span', class_="publisher _ellipsis")
-        time_tag = re.search(r'data-key="(\d{12})', first_article_div['data-key']).group(1)
+        time_tag = re.search(r'data-key="(\d{12,})', first_article_div['data-key']).group(1)
         
     title = title_tag.text
     subtitle = subtitle_tag.text
