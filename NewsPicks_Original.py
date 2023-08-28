@@ -26,13 +26,13 @@ def create_rss_feed():
 
     # RSSフィードの生成
     feed = Rss201rev2Feed(
-        title="NewsPicks Categoly：AI",
+        title="NewsPicks_Original",
         link=url,
         description="最新のNewsPicksのオリジナル記事をお届けします",
     )
 
     # 最初の記事の情報を取得
-    first_article_div = soup.find('div', class_="css-7q0s18")
+    first_article_div = soup.find('div', class_="news-card vertical big clear")
 
     if first_article_div is None:
         print("first_article_div が None やで！クラス名やタグが正しいか確認してみてな！")
