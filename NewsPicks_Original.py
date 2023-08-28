@@ -13,13 +13,27 @@ exportfile = "feed.xml"
 def create_rss_feed():
     url = "https://newspicks.com/series/list/"
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'Accept-Language': 'ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7',
+        'Accept-Encoding': 'gzip, deflate, br'
+    }
+    
+    # プロキシ設定
+    proxies = {
+        'http': 'http://your_proxy_here',
+        'https': 'https://your_proxy_here'
     }
     
     #response = requests.get(url)
-    response = requests.get(url, headers=headers)
+    #response = requests.get(url, headers=headers)
+    response = requests.get(url, headers=headers, proxies=proxies)
     content = response.text
 
+    # ここでステータスコードを確認
+    if response.status_code != 200:
+        print(f"HTTP Status Code: {response.status_code}")
+        return
+        
     # HTMLの解析
     soup = BeautifulSoup(content, 'html.parser')
     #print('# HTMLの解析')
