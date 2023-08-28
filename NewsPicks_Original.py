@@ -1,5 +1,6 @@
 
 import os
+import re
 import requests
 from bs4 import BeautifulSoup
 from feedgenerator import Rss201rev2Feed
@@ -40,14 +41,19 @@ def create_rss_feed():
         print(soup.prettify()[:500]) # 最初の500文字を出力
     else:
         a_tag = first_article_div.find('a', href=True)
-    title_tag = first_article_div.find(class_="typography css-19plv60")
-    subtitle_tag = first_article_div.find(class_="typography css-rvnxno")
-    time_tag = first_article_div.find('time', datetime=True)
+        title_tag = first_article_div.find('div', class_="title _ellipsised")
+        subtitle_tag = first_article_div.find('span', class_="publisher _ellipsised")
 
+        time_data = first_article_div.get('data-key')
+        match = re.search(r'(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})', time_data)
+        if match:
+            year, month, day, hour, minute = match.groups()
+            time_tag = f"{year}/{month}/{day} {hour}:{minute}"
+        
     title = title_tag.text
     subtitle = subtitle_tag.text
     href = a_tag['href']
-    date = parse(time_tag['datetime'])
+    date = time_tag.text
 
     feed.add_item(
         title=title + " - " + subtitle,
