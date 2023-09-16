@@ -4,9 +4,27 @@
         <title>NewsPicks_Original</title>
         <link>https://newspicks.com/series/list/</link>
         <description>最新のNewsPicksのオリジナル記事をお届けします</description>
-        <lastBuildDate>Fri, 15 Sep 2023 20:30:03 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 20:30:03 -0000</lastBuildDate>
         <item>
-            <title>【超実践】ド素人がAIで「動くチャート」を作ってみた - NewsPicks編集部</title>
+            <title>【議論】「弱者男性」問題を無視してはいけない - NewsPicks編集部</title>
+            <link>/news/8906199?ref=series</link>
+            <description/>
+            <pubDate>Sat, 16 Sep 2023 20:30:03 -0000</pubDate>
+        </item>
+        <item>
+            <title>【大物CFO】アクティビストとの対話は「腕の見せ所」だ - NewsPicks編集部</title>
+            <link>/news/8916766?ref=series</link>
+            <description/>
+            <pubDate>Sat, 16 Sep 2023 20:30:02 -0000</pubDate>
+        </item>
+        <item>
+            <title>【人権問題】ジャニーズ性加害、企業対応の｢正解・不正解｣ - NewsPicks編集部</title>
+            <link>/news/8918888?ref=series</link>
+            <description/>
+            <pubDate>Sat, 16 Sep 2023 20:30:01 -0000</pubDate>
+        </item>
+        <item>
+            <title>【超実践】ド素人がAIで「最強のチャート」を作ってみた - NewsPicks編集部</title>
             <link>/news/8918974?ref=series</link>
             <description/>
             <pubDate>Fri, 15 Sep 2023 20:30:03 -0000</pubDate>
@@ -52,24 +70,6 @@
             <link>/news/8907416?ref=series</link>
             <description/>
             <pubDate>Thu, 14 Sep 2023 20:30:01 -0000</pubDate>
-        </item>
-        <item>
-            <title>嘘をつく「動機がない」。疑惑の渦中で広津社長が語ったこと - NewsPicks編集部</title>
-            <link>/news/8913155?ref=series</link>
-            <description/>
-            <pubDate>Thu, 14 Sep 2023 20:30:00 -0000</pubDate>
-        </item>
-        <item>
-            <title>【激白】日本は「今が買い時」の中小企業で溢れている - NewsPicks編集部</title>
-            <link>/news/8906180?ref=series</link>
-            <description/>
-            <pubDate>Wed, 13 Sep 2023 20:30:04 -0000</pubDate>
-        </item>
-        <item>
-            <title>【読書】若いころと同じ生き方では、何がまずいのか - NewsPicks編集部</title>
-            <link>/news/8884792?ref=series</link>
-            <description/>
-            <pubDate>Wed, 13 Sep 2023 20:30:03 -0000</pubDate>
         </item>
     </channel>
 </rss>
