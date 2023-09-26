@@ -4,7 +4,25 @@
         <title>NewsPicks_Original</title>
         <link>https://newspicks.com/series/list/</link>
         <description>最新のNewsPicksのオリジナル記事をお届けします</description>
-        <lastBuildDate>Mon, 25 Sep 2023 20:30:04 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 20:30:02 -0000</lastBuildDate>
+        <item>
+            <title>【最前線】あなたのゴミは今、「お金」に変わっている - NewsPicks編集部</title>
+            <link>/news/8957745?ref=series</link>
+            <description/>
+            <pubDate>Tue, 26 Sep 2023 20:30:02 -0000</pubDate>
+        </item>
+        <item>
+            <title>【有能】TikTokが、最強の「レシピ本」になっていた - NewsPicks編集部</title>
+            <link>/news/8956277?ref=series</link>
+            <description/>
+            <pubDate>Tue, 26 Sep 2023 20:30:01 -0000</pubDate>
+        </item>
+        <item>
+            <title>【34兆円市場】「エヌビディア天下」に挑む - NewsPicks編集部</title>
+            <link>/news/8962028?ref=series</link>
+            <description/>
+            <pubDate>Tue, 26 Sep 2023 20:30:00 -0000</pubDate>
+        </item>
         <item>
             <title>【日本発】世界がマネできない、微生物ビジネスがすごい - NewsPicks編集部</title>
             <link>/news/8958485?ref=series</link>
@@ -52,24 +70,6 @@
             <link>/news/8951897?ref=series</link>
             <description/>
             <pubDate>Sun, 24 Sep 2023 20:30:01 -0000</pubDate>
-        </item>
-        <item>
-            <title>【半導体】生成AIで「チップのカンブリア爆発」が始まる - NewsPicks編集部</title>
-            <link>/news/8952832?ref=series</link>
-            <description/>
-            <pubDate>Sun, 24 Sep 2023 20:30:00 -0000</pubDate>
-        </item>
-        <item>
-            <title>【解説】タワマン揺らす「長周期地震動」の脅威とAI予測 - NewsPicks編集部</title>
-            <link>/news/8951240?ref=series</link>
-            <description/>
-            <pubDate>Sat, 23 Sep 2023 20:30:03 -0000</pubDate>
-        </item>
-        <item>
-            <title>【週末に考える】リベラルが軽視する「若い男性の悩み」 - NewsPicks編集部</title>
-            <link>/news/8946057?ref=series</link>
-            <description/>
-            <pubDate>Sat, 23 Sep 2023 20:30:02 -0000</pubDate>
         </item>
     </channel>
 </rss>
