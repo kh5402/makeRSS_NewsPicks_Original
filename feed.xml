@@ -4,7 +4,31 @@
         <title>NewsPicks_Original</title>
         <link>https://newspicks.com/series/list/</link>
         <description>最新のNewsPicksのオリジナル記事をお届けします</description>
-        <lastBuildDate>Tue, 26 Sep 2023 20:30:02 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 20:30:03 -0000</lastBuildDate>
+        <item>
+            <title>【読書】深い対話を実現する、1on1の「2つのスキル」 - NewsPicks編集部</title>
+            <link>/news/8955859?ref=series</link>
+            <description/>
+            <pubDate>Wed, 27 Sep 2023 20:30:03 -0000</pubDate>
+        </item>
+        <item>
+            <title>【挑戦】リサイクルで利益を狙う、あの日本企業 - NewsPicks編集部</title>
+            <link>/news/8963231?ref=series</link>
+            <description/>
+            <pubDate>Wed, 27 Sep 2023 20:30:02 -0000</pubDate>
+        </item>
+        <item>
+            <title>【秘密】世界のAI半導体が注目する、知られざる日本企業たち - NewsPicks編集部</title>
+            <link>/news/8961389?ref=series</link>
+            <description/>
+            <pubDate>Wed, 27 Sep 2023 20:30:01 -0000</pubDate>
+        </item>
+        <item>
+            <title>【最新研究】AI時代には「意識」の定義が必要だ - NewsPicks編集部</title>
+            <link>/news/8968406?ref=series</link>
+            <description/>
+            <pubDate>Wed, 27 Sep 2023 20:30:00 -0000</pubDate>
+        </item>
         <item>
             <title>【最前線】あなたのゴミは今、「お金」に変わっている - NewsPicks編集部</title>
             <link>/news/8957745?ref=series</link>
@@ -46,30 +70,6 @@
             <link>/news/8953630?ref=series</link>
             <description/>
             <pubDate>Mon, 25 Sep 2023 20:30:01 -0000</pubDate>
-        </item>
-        <item>
-            <title>【全記事無料】2013→23 ビジネス記事ベスト - NewsPicks編集部</title>
-            <link>/news/8937723?ref=series</link>
-            <description/>
-            <pubDate>Mon, 25 Sep 2023 20:30:00 -0000</pubDate>
-        </item>
-        <item>
-            <title>【タイミー】異例づくし、130億円デット調達のカラクリ - NewsPicks編集部</title>
-            <link>/news/8948637?ref=series</link>
-            <description/>
-            <pubDate>Sun, 24 Sep 2023 20:30:03 -0000</pubDate>
-        </item>
-        <item>
-            <title>【直撃】生成AIで、英語学習はここまで変わる - NewsPicks編集部</title>
-            <link>/news/8948594?ref=series</link>
-            <description/>
-            <pubDate>Sun, 24 Sep 2023 20:30:02 -0000</pubDate>
-        </item>
-        <item>
-            <title>【新】Gメール、YouTubeも…。グーグル「新AI戦略」が本気だ - NewsPicks編集部</title>
-            <link>/news/8951897?ref=series</link>
-            <description/>
-            <pubDate>Sun, 24 Sep 2023 20:30:01 -0000</pubDate>
         </item>
     </channel>
 </rss>
