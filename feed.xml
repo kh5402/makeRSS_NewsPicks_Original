@@ -4,7 +4,31 @@
         <title>NewsPicks_Original</title>
         <link>https://newspicks.com/series/list/</link>
         <description>最新のNewsPicksのオリジナル記事をお届けします</description>
-        <lastBuildDate>Thu, 28 Sep 2023 20:30:04 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 20:30:03 -0000</lastBuildDate>
+        <item>
+            <title>【データ分析】日本は「G7の羨望の的」は本当か - NewsPicks編集部</title>
+            <link>/news/8981773?ref=series</link>
+            <description/>
+            <pubDate>Fri, 29 Sep 2023 20:30:03 -0000</pubDate>
+        </item>
+        <item>
+            <title>【密着2年】イーロン・マスクの「素顔」に最も近づいた男 - NewsPicks編集部</title>
+            <link>/news/8950134?ref=series</link>
+            <description/>
+            <pubDate>Fri, 29 Sep 2023 20:30:02 -0000</pubDate>
+        </item>
+        <item>
+            <title>【便利すぎ】エクセル業務を「GPTで自動化」する秘技 - NewsPicks編集部</title>
+            <link>/news/8977401?ref=series</link>
+            <description/>
+            <pubDate>Fri, 29 Sep 2023 20:30:01 -0000</pubDate>
+        </item>
+        <item>
+            <title>【子どもの学び】小さな花壇から、生物多様性を冒険しよう - NewsPicks編集部</title>
+            <link>/news/8946563?ref=series</link>
+            <description/>
+            <pubDate>Fri, 29 Sep 2023 20:30:00 -0000</pubDate>
+        </item>
         <item>
             <title>【異端】実は儲かる？「山投資」の秘密 - NewsPicks編集部</title>
             <link>/news/8786224?ref=series</link>
@@ -46,30 +70,6 @@
             <link>/news/8961389?ref=series</link>
             <description/>
             <pubDate>Wed, 27 Sep 2023 20:30:01 -0000</pubDate>
-        </item>
-        <item>
-            <title>【最新研究】AI時代には「意識」の定義が必要だ - NewsPicks編集部</title>
-            <link>/news/8968406?ref=series</link>
-            <description/>
-            <pubDate>Wed, 27 Sep 2023 20:30:00 -0000</pubDate>
-        </item>
-        <item>
-            <title>【最前線】あなたのゴミは今、「お金」に変わっている - NewsPicks編集部</title>
-            <link>/news/8957745?ref=series</link>
-            <description/>
-            <pubDate>Tue, 26 Sep 2023 20:30:02 -0000</pubDate>
-        </item>
-        <item>
-            <title>【有能】TikTokが、最強の「レシピ本」になっていた - NewsPicks編集部</title>
-            <link>/news/8956277?ref=series</link>
-            <description/>
-            <pubDate>Tue, 26 Sep 2023 20:30:01 -0000</pubDate>
-        </item>
-        <item>
-            <title>【34兆円市場】「エヌビディア天下」に挑む - NewsPicks編集部</title>
-            <link>/news/8962028?ref=series</link>
-            <description/>
-            <pubDate>Tue, 26 Sep 2023 20:30:00 -0000</pubDate>
         </item>
     </channel>
 </rss>
