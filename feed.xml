@@ -4,9 +4,27 @@
         <title>NewsPicks_Original</title>
         <link>https://newspicks.com/series/list/</link>
         <description>最新のNewsPicksのオリジナル記事をお届けします</description>
-        <lastBuildDate>Fri, 29 Sep 2023 20:30:03 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 20:30:02 -0000</lastBuildDate>
         <item>
-            <title>【データ分析】日本は「G7の羨望の的」は本当か - NewsPicks編集部</title>
+            <title>【本質】自給自足できるアメリカ、できない日本 - NewsPicks編集部</title>
+            <link>/news/8979948?ref=series</link>
+            <description/>
+            <pubDate>Sat, 30 Sep 2023 20:30:02 -0000</pubDate>
+        </item>
+        <item>
+            <title>【爆速】パワポ達人×GPTで「絶対伝わる資料」作成術 - NewsPicks編集部</title>
+            <link>/news/8978019?ref=series</link>
+            <description/>
+            <pubDate>Sat, 30 Sep 2023 20:30:00 -0000</pubDate>
+        </item>
+        <item>
+            <title>【イーロン・マスク】「心理的危険性」がもたらしたパワー - NewsPicks編集部</title>
+            <link>/news/8983293?ref=series</link>
+            <description/>
+            <pubDate>Sat, 30 Sep 2023 20:30:00 -0000</pubDate>
+        </item>
+        <item>
+            <title>【データ図解】日本の「復活」は本当なのか - NewsPicks編集部</title>
             <link>/news/8981773?ref=series</link>
             <description/>
             <pubDate>Fri, 29 Sep 2023 20:30:03 -0000</pubDate>
@@ -24,7 +42,7 @@
             <pubDate>Fri, 29 Sep 2023 20:30:01 -0000</pubDate>
         </item>
         <item>
-            <title>【子どもの学び】小さな花壇から、生物多様性を冒険しよう - NewsPicks編集部</title>
+            <title>【SONY×教育】小さな花壇から、生物多様性を冒険しよう - NewsPicks編集部</title>
             <link>/news/8946563?ref=series</link>
             <description/>
             <pubDate>Fri, 29 Sep 2023 20:30:00 -0000</pubDate>
@@ -52,24 +70,6 @@
             <link>/news/8957210?ref=series</link>
             <description/>
             <pubDate>Thu, 28 Sep 2023 20:30:01 -0000</pubDate>
-        </item>
-        <item>
-            <title>【読書】深い対話を実現する、1on1の「2つのスキル」 - NewsPicks編集部</title>
-            <link>/news/8955859?ref=series</link>
-            <description/>
-            <pubDate>Wed, 27 Sep 2023 20:30:03 -0000</pubDate>
-        </item>
-        <item>
-            <title>【挑戦】リサイクルで利益を狙う、あの日本企業 - NewsPicks編集部</title>
-            <link>/news/8963231?ref=series</link>
-            <description/>
-            <pubDate>Wed, 27 Sep 2023 20:30:02 -0000</pubDate>
-        </item>
-        <item>
-            <title> 【大解剖】生成AI時代の「日本・入っている」 - NewsPicks編集部</title>
-            <link>/news/8961389?ref=series</link>
-            <description/>
-            <pubDate>Wed, 27 Sep 2023 20:30:01 -0000</pubDate>
         </item>
     </channel>
 </rss>
