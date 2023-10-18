@@ -79,6 +79,8 @@ def create_rss_feed():
 
     # RSSフィードのXMLを出力
     xml_str = feed.writeString('utf-8')
+    # 不正なXML文字を取り除く
+    xml_str = re.sub(u'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]', '', xml_str.decode()).encode()
     dom = parseString(xml_str)
     pretty_xml_str = dom.toprettyxml(indent="    ", encoding='utf-8')
 
