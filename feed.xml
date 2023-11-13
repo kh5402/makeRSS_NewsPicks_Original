@@ -4,7 +4,37 @@
         <title>NewsPicks_Original</title>
         <link>https://newspicks.com/series/list/</link>
         <description>最新のNewsPicksのオリジナル記事をお届けします</description>
-        <lastBuildDate>Sun, 12 Nov 2023 20:30:03 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 20:30:04 -0000</lastBuildDate>
+        <item>
+            <title>【直撃】朝日新聞が「今さら」科学誌ニュートンを買収した狙い - NewsPicks編集部</title>
+            <link>/news/9179322?ref=series</link>
+            <description/>
+            <pubDate>Mon, 13 Nov 2023 20:30:04 -0000</pubDate>
+        </item>
+        <item>
+            <title>【想定外】北欧でうごめく「森スタートアップ」たち - NewsPicks編集部</title>
+            <link>/news/9182402?ref=series</link>
+            <description/>
+            <pubDate>Mon, 13 Nov 2023 20:30:03 -0000</pubDate>
+        </item>
+        <item>
+            <title>【大空幸星】地獄の日々を救ってくれた「大人」の存在 - NewsPicks編集部</title>
+            <link>/news/8920428?ref=series</link>
+            <description/>
+            <pubDate>Mon, 13 Nov 2023 20:30:02 -0000</pubDate>
+        </item>
+        <item>
+            <title>【混沌】世界中のCEOの最大関心事は「地政学リスク」 - NewsPicks編集部</title>
+            <link>/news/9178390?ref=series</link>
+            <description/>
+            <pubDate>Mon, 13 Nov 2023 20:30:01 -0000</pubDate>
+        </item>
+        <item>
+            <title>【円が最安値】為替ニュースが分かる「3ステップ」 - NewsPicks編集部</title>
+            <link>/news/9176821?ref=series</link>
+            <description/>
+            <pubDate>Mon, 13 Nov 2023 20:30:00 -0000</pubDate>
+        </item>
         <item>
             <title>【三越伊勢丹】インバウンドで利益2倍の大躍進 - NewsPicks編集部</title>
             <link>/news/9178842?ref=series</link>
@@ -40,36 +70,6 @@
             <link>/news/9176517?ref=series</link>
             <description/>
             <pubDate>Sat, 11 Nov 2023 20:30:01 -0000</pubDate>
-        </item>
-        <item>
-            <title>【波紋】アメリカの「イスラエル贔屓」が、揺らいでいる - NewsPicks編集部</title>
-            <link>/news/9174571?ref=series</link>
-            <description/>
-            <pubDate>Sat, 11 Nov 2023 20:30:00 -0000</pubDate>
-        </item>
-        <item>
-            <title>【新潮流】陰鬱で、悲観的な「環境主義」を抜け出そう - NewsPicks編集部</title>
-            <link>/news/9167042?ref=series</link>
-            <description/>
-            <pubDate>Fri, 10 Nov 2023 20:30:02 -0000</pubDate>
-        </item>
-        <item>
-            <title>【爆速実践】ChatGPTの新機能で、「最強ボット」を作ってみた - NewsPicks編集部</title>
-            <link>/news/9174403?ref=series</link>
-            <description/>
-            <pubDate>Fri, 10 Nov 2023 20:30:01 -0000</pubDate>
-        </item>
-        <item>
-            <title>【動画解説】ガザ戦争の「出口」を、歴史から読み解く - NewsPicks編集部</title>
-            <link>/news/9174412?ref=series</link>
-            <description/>
-            <pubDate>Fri, 10 Nov 2023 20:30:00 -0000</pubDate>
-        </item>
-        <item>
-            <title>【楽天決算】「モバイル全振り」に賭けた、三木谷CEOの胸の内 - NewsPicks編集部</title>
-            <link>/news/9162348?ref=series</link>
-            <description/>
-            <pubDate>Thu, 09 Nov 2023 20:30:03 -0000</pubDate>
         </item>
     </channel>
 </rss>
