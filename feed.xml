@@ -4,7 +4,13 @@
         <title>NewsPicks_Original</title>
         <link>https://newspicks.com/series/list/</link>
         <description>最新のNewsPicksのオリジナル記事をお届けします</description>
-        <lastBuildDate>Fri, 17 Nov 2023 20:30:04 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 22:00:27 -0000</lastBuildDate>
+        <item>
+            <title>【最新】今週の国際情勢、押さえておきたい３つのトピック - NewsPicks編集部</title>
+            <link>/news/9206684?ref=series</link>
+            <description/>
+            <pubDate>Fri, 17 Nov 2023 22:00:27 -0000</pubDate>
+        </item>
         <item>
             <title>【データ】ChatGPTは、もう「あなたの仕事」を奪っている - NewsPicks編集部</title>
             <link>/news/9206590?ref=series</link>
@@ -64,12 +70,6 @@
             <link>/news/9183306?ref=series</link>
             <description/>
             <pubDate>Wed, 15 Nov 2023 20:30:05 -0000</pubDate>
-        </item>
-        <item>
-            <title>【注目】中国の繊維大手に対抗できる「付加価値」の作り方 - NewsPicks編集部</title>
-            <link>/news/9194813?ref=series</link>
-            <description/>
-            <pubDate>Wed, 15 Nov 2023 20:30:04 -0000</pubDate>
         </item>
     </channel>
 </rss>
