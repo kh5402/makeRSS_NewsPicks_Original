@@ -4,7 +4,37 @@
         <title>NewsPicks_Original</title>
         <link>https://newspicks.com/series/list/</link>
         <description>最新のNewsPicksのオリジナル記事をお届けします</description>
-        <lastBuildDate>Thu, 23 Nov 2023 20:30:03 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 20:30:04 -0000</lastBuildDate>
+        <item>
+            <title>【必読】気鋭の平成生まれ学者が説く、「昭和式経営」の凄さ - NewsPicks編集部</title>
+            <link>/news/9209547?ref=series</link>
+            <description/>
+            <pubDate>Fri, 24 Nov 2023 20:30:04 -0000</pubDate>
+        </item>
+        <item>
+            <title>【ミニ教養】アルトマン事変、日本人が完全に見落としていること - NewsPicks編集部</title>
+            <link>/news/9231953?ref=series</link>
+            <description/>
+            <pubDate>Fri, 24 Nov 2023 20:30:03 -0000</pubDate>
+        </item>
+        <item>
+            <title>【原研哉×為末大】AI時代に「デザイン」はどう変わる？ - NewsPicks編集部</title>
+            <link>/news/9225621?ref=series</link>
+            <description/>
+            <pubDate>Fri, 24 Nov 2023 20:30:02 -0000</pubDate>
+        </item>
+        <item>
+            <title>【最新】アドビが小学校に「プロ仕様」ツールを提供する理由 - NewsPicks編集部</title>
+            <link>/news/9233185?ref=series</link>
+            <description/>
+            <pubDate>Fri, 24 Nov 2023 20:30:01 -0000</pubDate>
+        </item>
+        <item>
+            <title>【解説】世界が熱狂する「やせ薬」とは何なのか - NewsPicks編集部</title>
+            <link>/news/9234765?ref=series</link>
+            <description/>
+            <pubDate>Fri, 24 Nov 2023 20:30:00 -0000</pubDate>
+        </item>
         <item>
             <title>【玉木雄一郎】減税万歳。積極財政こそが国を救う - NewsPicks編集部</title>
             <link>/news/9227327?ref=series</link>
@@ -40,36 +70,6 @@
             <link>/news/9228180?ref=series</link>
             <description/>
             <pubDate>Wed, 22 Nov 2023 20:30:03 -0000</pubDate>
-        </item>
-        <item>
-            <title>【読書】無意識に陥る「情報メタボ」の対処法 - NewsPicks編集部</title>
-            <link>/news/9203846?ref=series</link>
-            <description/>
-            <pubDate>Wed, 22 Nov 2023 20:30:02 -0000</pubDate>
-        </item>
-        <item>
-            <title>【燃費半分】100年変わらなかった「飛行機」が、ついに変わる - NewsPicks編集部</title>
-            <link>/news/9223471?ref=series</link>
-            <description/>
-            <pubDate>Wed, 22 Nov 2023 20:30:01 -0000</pubDate>
-        </item>
-        <item>
-            <title>【イェール大直伝】自己評価を歪める「思考バイアス」攻略法 - NewsPicks編集部</title>
-            <link>/news/9211602?ref=series</link>
-            <description/>
-            <pubDate>Wed, 22 Nov 2023 20:30:00 -0000</pubDate>
-        </item>
-        <item>
-            <title>【動画】AIの大波乱「アルトマン事変」を完全キャッチアップ - NewsPicks編集部</title>
-            <link>/news/9222800?ref=series</link>
-            <description/>
-            <pubDate>Tue, 21 Nov 2023 20:30:04 -0000</pubDate>
-        </item>
-        <item>
-            <title>【解説】先端医薬の生産を爆増させるスタートアップのすごい技術 - NewsPicks編集部</title>
-            <link>/news/9216576?ref=series</link>
-            <description/>
-            <pubDate>Tue, 21 Nov 2023 20:30:03 -0000</pubDate>
         </item>
     </channel>
 </rss>
