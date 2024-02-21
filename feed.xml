@@ -4,7 +4,13 @@
         <title>NewsPicks_Original</title>
         <link>https://newspicks.com/series/list/</link>
         <description>最新のNewsPicksのオリジナル記事をお届けします</description>
-        <lastBuildDate>Wed, 21 Feb 2024 20:30:03 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 22:06:00 -0000</lastBuildDate>
+        <item>
+            <title>【エヌビディア満点決算】AI祭り、半導体の業績総まとめ - NewsPicks編集部</title>
+            <link>/news/9614391?ref=series</link>
+            <description/>
+            <pubDate>Wed, 21 Feb 2024 22:06:00 -0000</pubDate>
+        </item>
         <item>
             <title>【3月上陸】UberEats「ロボット配達員」の実力はいかほど？ - NewsPicks編集部</title>
             <link>/news/9615408?ref=series</link>
@@ -64,12 +70,6 @@
             <link>/news/9599746?ref=series</link>
             <description/>
             <pubDate>Mon, 19 Feb 2024 20:30:04 -0000</pubDate>
-        </item>
-        <item>
-            <title>【意外】売上アップにも貢献。最新の調理ロボットがすごい - NewsPicks編集部</title>
-            <link>/news/9605039?ref=series</link>
-            <description/>
-            <pubDate>Mon, 19 Feb 2024 20:30:03 -0000</pubDate>
         </item>
     </channel>
 </rss>
