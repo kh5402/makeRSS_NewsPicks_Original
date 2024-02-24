@@ -4,7 +4,25 @@
         <title>NewsPicks_Original</title>
         <link>https://newspicks.com/series/list/</link>
         <description>最新のNewsPicksのオリジナル記事をお届けします</description>
-        <lastBuildDate>Fri, 23 Feb 2024 20:30:02 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 20:30:02 -0000</lastBuildDate>
+        <item>
+            <title>【ゼロから解説】ChatGPTより賢い「自分専用GPT」の作り方 - NewsPicks編集部</title>
+            <link>/news/9625343?ref=series</link>
+            <description/>
+            <pubDate>Sat, 24 Feb 2024 20:30:02 -0000</pubDate>
+        </item>
+        <item>
+            <title>【成長環境】若手がもっと積極的になる「3つのアプローチ」 - NewsPicks編集部</title>
+            <link>/news/9617674?ref=series</link>
+            <description/>
+            <pubDate>Sat, 24 Feb 2024 20:30:01 -0000</pubDate>
+        </item>
+        <item>
+            <title>【教養】なぜ優れたビジネスは「引き算」されているのか - NewsPicks編集部</title>
+            <link>/news/9625422?ref=series</link>
+            <description/>
+            <pubDate>Sat, 24 Feb 2024 20:30:00 -0000</pubDate>
+        </item>
         <item>
             <title>【ミニ教養】生成AI界の「勝者の条件」とは - NewsPicks編集部</title>
             <link>/news/9625265?ref=series</link>
@@ -52,24 +70,6 @@
             <link>/news/9616180?ref=series</link>
             <description/>
             <pubDate>Thu, 22 Feb 2024 20:30:00 -0000</pubDate>
-        </item>
-        <item>
-            <title>【エヌビディア満点決算】AI祭り、半導体の業績総まとめ - NewsPicks編集部</title>
-            <link>/news/9614391?ref=series</link>
-            <description/>
-            <pubDate>Wed, 21 Feb 2024 22:06:00 -0000</pubDate>
-        </item>
-        <item>
-            <title>【3月上陸】UberEats「ロボット配達員」の実力はいかほど？ - NewsPicks編集部</title>
-            <link>/news/9615408?ref=series</link>
-            <description/>
-            <pubDate>Wed, 21 Feb 2024 20:30:03 -0000</pubDate>
-        </item>
-        <item>
-            <title>【読書】知れば知るほど奥深い「ウォーキングの科学」 - NewsPicks編集部</title>
-            <link>/news/9611664?ref=series</link>
-            <description/>
-            <pubDate>Wed, 21 Feb 2024 20:30:02 -0000</pubDate>
         </item>
     </channel>
 </rss>
