@@ -4,7 +4,19 @@
         <title>NewsPicks_Original</title>
         <link>https://newspicks.com/series/list/</link>
         <description>最新のNewsPicksのオリジナル記事をお届けします</description>
-        <lastBuildDate>Thu, 07 Mar 2024 20:30:03 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 20:30:00 -0000</lastBuildDate>
+        <item>
+            <title>【ミニ教養】とうとうAIが人間のIQを超えた - NewsPicks編集部</title>
+            <link>/news/9690337?ref=series</link>
+            <description/>
+            <pubDate>Fri, 08 Mar 2024 20:30:00 -0000</pubDate>
+        </item>
+        <item>
+            <title>【すぐ実践】これでだいぶラクになる！花粉症対策の新常識 - NewsPicks編集部</title>
+            <link>/news/9690303?ref=series</link>
+            <description/>
+            <pubDate>Fri, 08 Mar 2024 20:30:00 -0000</pubDate>
+        </item>
         <item>
             <title>伊藤忠、問題山積みのビッグモーターを買収する勝算 - NewsPicks編集部</title>
             <link>/news/9684516?ref=series</link>
@@ -58,18 +70,6 @@
             <link>/news/9674067?ref=series</link>
             <description/>
             <pubDate>Wed, 06 Mar 2024 20:30:00 -0000</pubDate>
-        </item>
-        <item>
-            <title>【独自】マネーフォワードが｢富裕層の金庫番｣に参入する理由 - NewsPicks編集部</title>
-            <link>/news/9673859?ref=series</link>
-            <description/>
-            <pubDate>Tue, 05 Mar 2024 20:30:03 -0000</pubDate>
-        </item>
-        <item>
-            <title>【知識】頭痛薬飲みすぎるとどうなる？ - NewsPicks編集部</title>
-            <link>/news/9668835?ref=series</link>
-            <description/>
-            <pubDate>Tue, 05 Mar 2024 20:30:02 -0000</pubDate>
         </item>
     </channel>
 </rss>
