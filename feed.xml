@@ -4,12 +4,18 @@
         <title>NewsPicks_Original</title>
         <link>https://newspicks.com/series/list/</link>
         <description>最新のNewsPicksのオリジナル記事をお届けします</description>
-        <lastBuildDate>Fri, 08 Mar 2024 20:30:00 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 20:30:02 -0000</lastBuildDate>
         <item>
             <title>【ミニ教養】とうとうAIが人間のIQを超えた - NewsPicks編集部</title>
             <link>/news/9690337?ref=series</link>
             <description/>
-            <pubDate>Fri, 08 Mar 2024 20:30:00 -0000</pubDate>
+            <pubDate>Fri, 08 Mar 2024 20:30:02 -0000</pubDate>
+        </item>
+        <item>
+            <title>【真相】私たちはなぜ、慢性的に「集中力不足」なのか - NewsPicks編集部</title>
+            <link>/news/9690511?ref=series</link>
+            <description/>
+            <pubDate>Fri, 08 Mar 2024 20:30:01 -0000</pubDate>
         </item>
         <item>
             <title>【すぐ実践】これでだいぶラクになる！花粉症対策の新常識 - NewsPicks編集部</title>
@@ -64,12 +70,6 @@
             <link>/news/9670937?ref=series</link>
             <description/>
             <pubDate>Wed, 06 Mar 2024 20:30:01 -0000</pubDate>
-        </item>
-        <item>
-            <title>【対決】グーグルを追え。伏兵マイクロソフトが｢広告｣で大攻勢 - NewsPicks編集部</title>
-            <link>/news/9674067?ref=series</link>
-            <description/>
-            <pubDate>Wed, 06 Mar 2024 20:30:00 -0000</pubDate>
         </item>
     </channel>
 </rss>
